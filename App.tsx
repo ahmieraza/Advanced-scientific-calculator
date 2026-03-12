@@ -4,7 +4,6 @@ import { CalculatorButtons } from "./components/CalculatorButtons";
 import { ButtonValue, CalcState } from "./src/types";
 import { 
   evaluateExpression, 
-  isValidExpression, 
   formatNumber, 
   canAddDecimal, 
   shouldReplaceOperator
